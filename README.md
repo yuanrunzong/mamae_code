@@ -5,7 +5,7 @@ util-------------------The util folder contains the necessary main function inte
 engine_finetune.py
 engine_pretrain.py
 main_finetune.py
-main_linprobe.py-
+main_linprobe.py
 mian_train.py
 models_mamae.py
 submitit_finetune.py
