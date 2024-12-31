@@ -1,12 +1,9 @@
-#This is code for model of Fusing Multi-PerspectiveFeatures wit hAttention
+#This is a code of Fusing Multi-PerspectiveFeatures with Attention
 Mask Mechanism in AutoEncoder
 
-util-------------------The util folder contains the necessary main function interface
-engine_finetune.py
-engine_pretrain.py
-main_finetune.py
-main_linprobe.py
-mian_train.py
-models_mamae.py
-submitit_finetune.py
-submitit_pretrain.py
+util folder description：The util folder contains the necessary main function interface  
+The environment and versions used in this experiment are as follows:  
+Pytorch version is 1.8.1  
+cuda version is 11.1  
+Python version is 3.8  
+
